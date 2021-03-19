@@ -1,0 +1,17 @@
+{
+    "name": "renpv/scrap-php",
+    "description": "Teste de crawling",
+    "authors": [
+        {
+            "name": "renatopaivabv",
+            "email": "renatopaivabv@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "6.5.2",
+        "sunra/php-simple-html-dom-parser": "v1.5.2",
+        "phpoffice/phpspreadsheet": "^1.12",
+        "imangazaliev/didom": "^1.16",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
